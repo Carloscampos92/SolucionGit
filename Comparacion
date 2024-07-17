@@ -1,0 +1,6 @@
+	Se agrega contenido para la resolución de conflictos
+	
+	El comando git add . nos funciona como el comando para pasar los cambios del estado preparado al estado confirmado
+	El comando git commit -m "Mensaje" nos funciona para pasar los cambios del estado preparado al estado confirmado con un identificador del commit
+
+	Fin del archivo
