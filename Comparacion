@@ -1,0 +1,6 @@
+	Se agrega contenido para la resolución de conflictos
+	
+	El comando git add . nos funciona como el comando para pasar los cambios del estado local o estado no preparado al estado preparado
+	El comando git commit -m "Mensaje" nos funciona para subir los cambios al repositorio remoto y resguardarlos con un commit
+
+	Fin del archivo
